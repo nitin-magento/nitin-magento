@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spryker**
 
-- 👯 I’m looking to collaborate on **Magento 2**
+- 👯 I’m looking to collaborate on **Magento 2, E-commerce**
 
 - 📝 I regularly write articles on [logicisgod.blogspot.com](logicisgod.blogspot.com)
 
