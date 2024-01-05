@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Magento 2, E-commerce**
 
-- 📝 I regularly write articles on [logicisgod.blogspot.com](logicisgod.blogspot.com)
+- 📝 I regularly write articles on [logicisgod.blogspot.com](http://www.logicisgod.blogspot.com)
 
 - 💬 Ask me about **Magento 2**
 
